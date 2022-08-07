@@ -41,7 +41,7 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
 
     OR
 
-    [Download Zip File](https://github.com/Serhiodev/LounchMyNFT-Minting-Bot./archive/refs/heads/main.zip)
+    [Download Zip File](https://github.com/Serhiodev/LounchMyNFT-minting-bot/archive/refs/heads/main.zip)
     
 
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
